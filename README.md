@@ -1,2 +1,2 @@
 # RepositorioAutenticacao
-Aula de Autenticações DIO.
+Repositorio de Autenticações DIO.
